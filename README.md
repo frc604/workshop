@@ -10,8 +10,6 @@ Bradley Chang
 
 =======
 
-Poop
-
 Ryan Lee
 
 =======
