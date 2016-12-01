@@ -3,16 +3,13 @@
 IT WAS PRETTY NOW IT'S DESTROYED!!!!!!
 
 This is a sample change to the README file.
-<<<<<<< HEAD >>>>>>>>>>>
 
-<<<<<<< HEAD
 Lol?
-||||||| merged common ancestors
-<<<<<<< HEAD
+
 Lol?
-=======
+
 Anjali Prabha
->>>>>>> 3ec582867efb9502315bcc2dd196e5e4b7dbb8f3
+
 
 Bradley Chang
 
@@ -22,8 +19,66 @@ Ryan Lee
 
 Richard Feng
 
-<<<<<<< HEAD
-d
+
+t’s the Nutshack! (Yee, yee/Yo!)
+
+It’s the Nutshack! (What’d he say?) (Ayyy!)
+
+It’s the Nutshack! (Oh, yeah!) (Yeeeah!)
+
+It’s the Nutshack! (Hey, I'm in that shit!)
+
+It’s the Nutshack! (Don’t forget ya boy, Angel!)
+
+It’s the Nutshack! (It’s the Nutshack!)
+
+It’s the Nutshack! (It’s the Nutshack!)
+
+It’s the Nutshack! (It’s the Nutshack...)
+
+It’s the Nutshack! (Hey!)
+
+It’s the Nutshack! (This beat's knockin'!)
+
+It’s the Nutshack! (Whoooa!)
+
+It’s the Nutshack!
+
+Hoo-ugh!
+
+Phil’s from ‘Frisco, Jack’s from the PI,
+
+Horatio or Horat, so big-eyed!
+
+Tito Dick “Dickman” baby!
+
+He raised Phil and loves the ladies.
+
+Jack’s cool, he's lazy, he's still learnin’
+
+And the ripe Cherry Pie, still a virgin,
+
+Chita, meet da freak of da week-ah!
+
+Phil’s homegirl, got Jack wanna keep her,
+
+But it’s not happenin’ neither! 
+
+Shake it like a seizure,
+
+Hold up, let me spark this, take a breather.
+
+Breath that reefer in my lungs,
+
+I got grapes, what you watchin', son?
+
+It’s the Nutshack! (Yah!)
+
+It’s the Nutshack! (Aaagh!)
+
+It’s the Nutshack!
+
+It’s the Nutshack!
 
 
 
