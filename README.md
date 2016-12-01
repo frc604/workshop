@@ -1,11 +1,19 @@
 # workshop
 
+Richard Feng
+
 This is a sample change to the README file.
+<<<<<<< HEAD
 Lol?
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> f138541aa01415a06252098d60fce1fcef752b0f
 
 Bradley Chang
 
 
+<<<<<<< HEAD
 
 
 
@@ -1252,3 +1260,12 @@ This
 Ryan Lee
 Ryan Lee
 >>>>>>> 07db653f8c0b96e15df301b78e1ae5179168bcd1
+=======
+Ryan Lee
+
+=======
+
+Anjali Prabha
+
+=======
+>>>>>>> f138541aa01415a06252098d60fce1fcef752b0f
