@@ -1,6 +1,7 @@
 # workshop
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Richard Feng
 
 This is a sample change to the README file.
@@ -9,8 +10,6 @@ This is a sample change to the README file.
 Lol?
 
 Bradley Chang
-
-Richard Feng
 
 
 
@@ -15321,9 +15320,11 @@ Poop
 
 =======
 >>>>>>> 07dc2466b588fa97b73966c985f933a9c9c1caab
+=======
+IT WAS PRETTY NOW IT'S DESTROYED!!!!!!
+>>>>>>> 9f32de1970af38f61cf9c79c3f901129ac388e76
 
 This is a sample change to the README file.
-<<<<<<< HEAD
 <<<<<<< HEAD >>>>>>>>>>>
 =======
 
@@ -15336,50 +15337,20 @@ Lol?
 
 Bradley Chang
 
-
-
-
-<<<<<<< HEAD
-=======
-
 Lol?
-
->>>>>>> e69c25acd841641c7844778209537308226147f3
-
-
-<<<<<<< HEAD
 Ankit
 
 This 
 Ryan Lee
 Ryan Lee
->>>>>>> 07db653f8c0b96e15df301b78e1ae5179168bcd1
 =======
 =======
 Poop
 =======
-
->>>>>>> eae96326678da5bd25f5d39bbe1db4ba9b7579bb
-
-
-=======
->>>>>>> 07db653f8c0b96e15df301b78e1ae5179168bcd1
-=======
->>>>>>> e69c25acd841641c7844778209537308226147f3
-
->>>>>>> f9a5d4964d099c003682c96f09f6a45b840bbbae
 Ryan Lee
 
-=======
 
 Anjali Prabha
 
-=======
-<<<<<<< HEAD
-
 Richard Feng
 
-=======
-=======
->>>>>>> f138541aa01415a06252098d60fce1fcef752b0f
->>>>>>> eae96326678da5bd25f5d39bbe1db4ba9b7579bb
