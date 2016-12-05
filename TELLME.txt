@@ -8,12 +8,6 @@ indeed, git out of here, you git
 
 The Internet Explorer got lost in the Safari. It carried a Chromium item to protect against the Firefox. However, they were all scared by the appearance of the Wireshark.
 
-<<<<<<< HEAD:TELLME.txt
-<<<<<<< HEAD
 It's the Nutshack! (What'd he say?)
-=======
-he wanted to sing in the opera
->>>>>>> origin/master
-=======
+
 the IE wanted to sing in the opera
->>>>>>> origin/master:new.txt
